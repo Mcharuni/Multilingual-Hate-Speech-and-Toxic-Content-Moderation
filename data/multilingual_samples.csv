@@ -1,0 +1,6 @@
+sample_id,language_code,content_text,phonetic_toxicity_score,context_type,actual_label
+M001,en,"I hope you and your family suffer terribly, nobody likes you.",0.88,text_chat,Toxic
+M002,es,"¡Eres un idiota total y deberías desaparecer de esta plataforma!",0.82,voice_transcript,Toxic
+M003,fr,"Passez une excellente journée, merci pour votre aide précieuse !",0.05,text_chat,Safe
+M004,de,"Du verdammter Betrüger, ich werde dich anzeigen!",0.91,voice_transcript,Toxic
+M005,en,"The conference schedule has been updated on the main portal page.",0.02,text_chat,Safe
